@@ -1,0 +1,6 @@
+{
+  "name": "RATNAWAT ELECTRONICS",
+  "description": "Modern digital showroom for RATNAWAT ELECTRONICS - Your Trusted Electronics Store with live product catalog, festival offers, instant WhatsApp enquiry, and easy owner admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
